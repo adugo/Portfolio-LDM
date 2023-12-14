@@ -1,0 +1,32 @@
+<feed xml:lang="es" xml:base="https://adugo.github.io/Portfolio-LDM/">
+<id>https://adugo.github.io/Portfolio-LDM/</id>
+<title>Viajes y más atom</title>
+<updated>2021-12-21T19:06:00+01:00</updated>
+<link rel="alternate" href="https://adugo.github.io/Portfolio-LDM/atom.xml/"/>
+<author>
+<name>Alvaro Dugo Dominguez</name>
+<email>dudoal_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<category term="Viajes ficticios"/>
+<contributor>
+<name>otro Autor</name>
+<email>otro@gmail.com</email>
+<uri>https://www.linkedin.com/in/otro</uri>
+</contributor>
+<logo>viajes.jpg</logo>
+<entry>
+<id>
+https://adugo.github.io/Portfolio-LDM/paginas/basededatos.html
+</id>
+<title>Información sobre Londres</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Alvaro Dugo Dominguez</name>
+<email>dudoal_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary>
+En este artículo cutre encontraras casi ninguna información sobre Londres
+</summary>
+<link rel="alternate" href="https://adugo.github.io/Portfolio-LDM/paginas/basededatos.html"/>
+</entry>
+</feed>
