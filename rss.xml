@@ -1,10 +1,9 @@
 <rss version="2.0">
 <channel>
-<!--Prólogo-->
-<title>Viajes y más</title>
+<title>Portfolio-LDM</title>
 <link>https://adugo.github.io/Portfolio-LDM</link>
-<description> Canal de noticias sobre viajes cutres </description>
-<category>viajes/ciudades/ocio</category>
+<description> Asignaturas principales de 1ASIR </description>
+<category>estudios/asignaturas/</category>
 <copyright>1º ASIR - LMSGI</copyright>
 <image>
 <url>
@@ -17,25 +16,24 @@ https://adugo.github.io/Portfolio-LDM/imagenes/lenguaje-de-programacion-scaled.j
 </image>
 <language>es-es</language>
 <lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
-<webMaster>i42osose@gmail.com</webMaster>
-<!-- Noticias del canal -->
+<webMaster>adugodominguez@gmail.com</webMaster>
+
 <item>
 <title>Base de datos</title>
 <description>
-En este artículo encontrará información sobre Londres
+En este artículo encontrará información sobre base de datos
 </description>
 <link>
 https://adugo.github.io/Portfolio-LDM/paginas/basededatos.html
 </link>
 <author>dudoal_aliesma2324@iesmedinaazahara.es</author>
 <category>Base de datos</category>
-<enclosure url="https://youtu.be/VupykmeN-xM" type="video" length="32572719"/>
 <pubDate>Thu, 14 Dec 2023 14:50:00 +0100</pubDate>
 </item>
 <item>
 <title>Lenguaje de marcas</title>
 <description>
-En este artículo encontrará información sobre París
+En este artículo encontrará información sobre Lenguaje de marcas
 </description>
 <link>
 https://adugo.github.io/Portfolio-LDM/paginas/lenguajedemarcas.html
