@@ -1,4 +1,3 @@
-
 h1{
     text-align: center
 
@@ -96,7 +95,7 @@ li {
     margin-bottom: 115px;
     display: inline-block;
     vertical-align: top;
-    background-image: url(./imagenes/fondo\ base\ de\ datos.jpg);
+    background-image: url(../imagenes/fondo\ base\ de\ datos.jpg);
     box-shadow: 10px 10px 5px rgb(0, 0, 0);
     transition: all .2s ease-in-out;
     text-align: center;
@@ -121,7 +120,7 @@ li {
     margin-bottom: 115px;
     display: inline-block;
     vertical-align: top;
-    background-image: url(./imagenes/lenguaje-de-programacion-scaled.jpeg);
+    background-image: url(../imagenes/lenguaje-de-programacion-scaled.jpeg);
     box-shadow: 10px 10px 5px rgb(0, 0, 0);
     transition: all .2s ease-in-out;
     text-align: center;
