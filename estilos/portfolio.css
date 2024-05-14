@@ -1,0 +1,189 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            display: grid;
+            grid-template-rows: auto 1fr auto;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Encabezado */
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 2rem 0;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+        }
+
+/* Estilos para el menú de navegación */
+.navinicio {
+    background-color: #bfffff; /* Color de fondo del menú */
+    text-align: center;
+    display: grid;
+    grid-auto-flow: column;
+    gap: 10px;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul {
+    list-style: none; /* Quita los puntos de la lista */
+    margin: 0;
+    padding: 0;
+    margin-left: 10% ; /* Se posiciona al centro */
+}
+
+nav ul li {
+    display: inline-block; /* Muestra los elementos en línea */
+    margin-right: 10%; /* Espaciado entre elementos */
+}
+
+nav ul li a {
+    text-decoration: none; /* Quita la decoración de enlace */
+    color: #000000; /* Color del texto */
+    font-weight: bold; /* Texto en negrita */
+    transition: color 0.3s; /* Transición suave del color */
+}
+
+nav ul li a:hover {
+    color: #ff9900; /* Color del texto al pasar el ratón */
+}
+
+/* Estilos para el menú de navegación */
+.navbasedatos {
+    background-color: #bfffff; /* Color de fondo del menú */
+    padding: 10px 0; /* Espaciado interno */
+    text-align: center;
+}
+
+.navlenguaje {
+    background-color: #ffa8a8; /* Color de fondo del menú */
+    padding: 10px 0; /* Espaciado interno */
+    text-align: center;
+}
+
+nav ul {
+    list-style: none; /* Quita los puntos de la lista */
+    margin: 0;
+    padding: 0;
+    margin-left: 10% ; /* Se posiciona al centro */
+}
+
+nav ul li {
+    display: inline-block; /* Muestra los elementos en línea */
+    margin-right: 10%; /* Espaciado entre elementos */
+}
+
+nav ul li a {
+    text-decoration: none; /* Quita la decoración de enlace */
+    color: #000000; /* Color del texto */
+    font-weight: bold; /* Texto en negrita */
+    transition: color 0.3s; /* Transición suave del color */
+}
+
+nav ul li a:hover {
+    color: #ff9900; /* Color del texto al pasar el ratón */
+}
+
+        /* Sección de proyectos */
+        .projects {
+            margin-top: 3rem;
+        }
+        .project {
+            border: 1px solid #ddd;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            background-color: #f9f9f9;
+        }
+        .project h2 {
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+        }
+        .project p {
+            font-size: 1.1rem;
+        }
+
+        /* Pie de página */
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #333;
+            color: #fff;
+        }
+
+        .fotoini {
+            width: 800px;
+            height: auto;
+            margin: 50px; 
+        }
+
+        .boton {
+            border: 4px solid #bfffff; 
+            padding: 10px; 
+            margin: auto;
+            margin-right: 5%;
+            margin-left: 5%;
+            background-color: #ffffff; 
+            color: #000000; 
+            display: inline-block;
+            text-decoration: none; 
+            text-transform: uppercase; 
+            font-family: 'Helvetica', sans-serif; 
+            }
+
+        .foto {
+        height: auto;
+        width: auto;
+        }
+
+
+
+        .fotogrande {
+            height: auto;
+            width: auto;
+            }
+
+            .container {
+                display: grid;
+                justify-content: center;
+            }
+
+        .h1basedatos {
+            color: ghostwhite;
+        }    
+
+        .headerbasedatos {
+            background-color: blue;
+        }
+
+        .bodybasedatos {
+            background-color: lightblue;
+        }
+
+        .h1lm {
+            color: ghostwhite;
+        }    
+
+        .headerlm {
+            background-color: rgb(255, 62, 62);
+        }
+
+        .bodylm {
+            background-color: rgb(230, 173, 173);
+        }
